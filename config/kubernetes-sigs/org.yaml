@@ -232,6 +232,7 @@ members:
 - dougm
 - dougsland
 - dpasiukevich
+- dprotaso
 - draveness
 - drmorr0
 - droot
@@ -274,6 +275,7 @@ members:
 - ffromani
 - figo
 - FillZpp
+- Fish-pro
 - flaper87
 - floreks
 - floryut
@@ -361,6 +363,7 @@ members:
 - jackielii
 - jacobsmith928
 - jacobwolfaws
+- jaehnri
 - JamesLaverack
 - JaneLiuL
 - janetkuo
@@ -640,6 +643,7 @@ members:
 - NoicFank
 - nojnhuh
 - npintaux
+- npolshakova
 - nprokopic
 - nunnatsa
 - nzoueidi
@@ -696,6 +700,7 @@ members:
 - pydctw
 - qabpea
 - qbarrand
+- qingwave
 - qinqon
 - qiujian16
 - qiutongs
@@ -736,6 +741,7 @@ members:
 - ritazh
 - riverzhang
 - rjbez17
+- rjsadow
 - rlenferink
 - rmenn
 - rmohr
@@ -763,6 +769,7 @@ members:
 - samos123
 - samudralavamshi54
 - sanchezl
+- sanchita-07
 - SandeepPissay
 - sandipanpanda
 - SanikaGawhane
@@ -798,6 +805,7 @@ members:
 - shalini-b
 - shaneutt
 - shashidharatd
+- shatoboar
 - shawn-hurley
 - sheerun
 - Shell32-Natsu
@@ -848,6 +856,7 @@ members:
 - tahsinrahman
 - tallclair
 - tam7t
+- taniaduggal
 - tanjacky
 - tanjunchen
 - tao12345666333
@@ -944,6 +953,7 @@ members:
 - yonatankahana
 - youngnick
 - YoyinZyc
+- yrs147
 - ytsarev
 - yuanchen8911
 - yuanying
@@ -1002,6 +1012,7 @@ teams:
     description: Write access to the cri-tools repo
     members:
     - feiskyer
+    - haircommander
     - mrunalp
     - Random-Liu
     - saschagrunert
